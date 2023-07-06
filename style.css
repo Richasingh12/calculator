@@ -1,0 +1,55 @@
+body
+{
+
+background-image:url(assets/pic.png);
+
+}
+h1{
+    color:plum;
+    
+    font-style: oblique;
+    /* border-radius: 20px; */
+    margin-top: 5%;
+    margin-left: 40%;
+    font-weight: 300;
+    /* width: 10px; */
+}
+.jim{
+margin-top: 4%;
+margin-left:40%;
+display: inline-block;
+border: 5px solid purple;
+border-radius: 10px;
+}
+
+.jorge{
+    /* margin-left: 2px; */
+    width: 210px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align: end;
+    background-color:white;
+    border: 5px solid purple;
+
+}
+    
+
+
+button
+{
+    width: 50px;
+    height: 50px;
+    background-color:white;
+    border-radius: 10px;
+}
+button:hover
+{
+    color:white;
+    background-color: purple;
+}
+.display:hover{
+    background-color: rebeccapurple;
+}
